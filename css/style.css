@@ -1,3 +1,27 @@
 .hidden {
   display: none;
 }
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 120px 0px;
+  background-size: cover;
+  color: aliceblue;
+  font-family: "JSongMyung-Regular-KO";
+}
+h2 {
+  font-size: 90px;
+  margin-bottom: 0%;
+}
+#todo-list {
+  margin-bottom: 50px;
+}
+@font-face {
+  font-family: "JSongMyung-Regular-KO";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/JSongMyung-Regular-KO.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
