@@ -18,6 +18,9 @@ h2 {
 #todo-list {
   margin-bottom: 50px;
 }
+#weather {
+  font-size: 20px;
+}
 @font-face {
   font-family: "JSongMyung-Regular-KO";
   src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/JSongMyung-Regular-KO.woff2")
